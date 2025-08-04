@@ -1,0 +1,15 @@
+tests\ConstructorTests.class
+tests\RegistrationTests.class
+helper\user\UserMethods.class
+pages\LoginPage.class
+tests\RegistrationPasswordTests.class
+pages\ConstructorPage.class
+tests\BaseTest.class
+pages\ForgotPasswordPage.class
+pages\ProfilePage.class
+helper\Waiter.class
+tests\ProfileTests.class
+tests\LoginTests.class
+helper\ConstantURL.class
+pages\RegistrationPage.class
+helper\user\User.class
